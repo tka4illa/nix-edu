@@ -69,7 +69,7 @@
 		<footer>
 			Andrii Tkachuk<br>
 			pro100andron4ik@gmail.com<br>
-			<a href="https://github.com/tka4illa/NIXeducation">GitHub Link</a>
+			<a href="https://github.com/tka4illa/nix-edu">GitHub Link</a>
 		</footer>
 	</body>
 </html>
